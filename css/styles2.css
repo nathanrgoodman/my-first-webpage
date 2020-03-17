@@ -1,1 +1,3 @@
-h1 {color: red;}
+h1 {color: red; font-style: oblique;}
+h2 {font-family: fantasy; color: purple;}
+p {font-weight: 600;}
